@@ -1,0 +1,8 @@
+C:\Users\reyda\source\repos\PresentacionesGit\PresentacionesGit\bin\Debug\PresentacionesGit.exe
+C:\Users\reyda\source\repos\PresentacionesGit\PresentacionesGit\bin\Debug\PresentacionesGit.pdb
+C:\Users\reyda\source\repos\PresentacionesGit\PresentacionesGit\obj\Debug\PresentacionesGit.csproj.AssemblyReference.cache
+C:\Users\reyda\source\repos\PresentacionesGit\PresentacionesGit\obj\Debug\PresentacionesGit.FrmPrincipal.resources
+C:\Users\reyda\source\repos\PresentacionesGit\PresentacionesGit\obj\Debug\PresentacionesGit.csproj.GenerateResource.cache
+C:\Users\reyda\source\repos\PresentacionesGit\PresentacionesGit\obj\Debug\PresentacionesGit.csproj.CoreCompileInputs.cache
+C:\Users\reyda\source\repos\PresentacionesGit\PresentacionesGit\obj\Debug\PresentacionesGit.exe
+C:\Users\reyda\source\repos\PresentacionesGit\PresentacionesGit\obj\Debug\PresentacionesGit.pdb
