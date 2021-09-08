@@ -6,3 +6,11 @@ C:\Users\reyda\source\repos\PresentacionesGit\PresentacionesGit\obj\Debug\Presen
 C:\Users\reyda\source\repos\PresentacionesGit\PresentacionesGit\obj\Debug\PresentacionesGit.csproj.CoreCompileInputs.cache
 C:\Users\reyda\source\repos\PresentacionesGit\PresentacionesGit\obj\Debug\PresentacionesGit.exe
 C:\Users\reyda\source\repos\PresentacionesGit\PresentacionesGit\obj\Debug\PresentacionesGit.pdb
+C:\Users\reyda\source\repos\PresentacionesGit\PresentacionesGit\bin\Debug\EntidadesGit.dll
+C:\Users\reyda\source\repos\PresentacionesGit\PresentacionesGit\bin\Debug\MetodosGit.dll
+C:\Users\reyda\source\repos\PresentacionesGit\PresentacionesGit\bin\Debug\AccesoDatosGit.dll
+C:\Users\reyda\source\repos\PresentacionesGit\PresentacionesGit\bin\Debug\MySql.Data.dll
+C:\Users\reyda\source\repos\PresentacionesGit\PresentacionesGit\bin\Debug\EntidadesGit.pdb
+C:\Users\reyda\source\repos\PresentacionesGit\PresentacionesGit\bin\Debug\MetodosGit.pdb
+C:\Users\reyda\source\repos\PresentacionesGit\PresentacionesGit\bin\Debug\AccesoDatosGit.pdb
+C:\Users\reyda\source\repos\PresentacionesGit\PresentacionesGit\obj\Debug\PresentacionesGit.csproj.CopyComplete

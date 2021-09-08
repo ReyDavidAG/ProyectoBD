@@ -1,0 +1,6 @@
+C:\Users\reyda\source\repos\PresentacionesGit\EntidadesGit\bin\Debug\EntidadesGit.dll
+C:\Users\reyda\source\repos\PresentacionesGit\EntidadesGit\bin\Debug\EntidadesGit.pdb
+C:\Users\reyda\source\repos\PresentacionesGit\EntidadesGit\obj\Debug\EntidadesGit.csproj.AssemblyReference.cache
+C:\Users\reyda\source\repos\PresentacionesGit\EntidadesGit\obj\Debug\EntidadesGit.csproj.CoreCompileInputs.cache
+C:\Users\reyda\source\repos\PresentacionesGit\EntidadesGit\obj\Debug\EntidadesGit.dll
+C:\Users\reyda\source\repos\PresentacionesGit\EntidadesGit\obj\Debug\EntidadesGit.pdb

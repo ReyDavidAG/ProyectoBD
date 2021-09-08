@@ -1,0 +1,8 @@
+C:\Users\reyda\source\repos\PresentacionesGit\AccesoDatosGit\bin\Debug\AccesoDatosGit.dll
+C:\Users\reyda\source\repos\PresentacionesGit\AccesoDatosGit\bin\Debug\AccesoDatosGit.pdb
+C:\Users\reyda\source\repos\PresentacionesGit\AccesoDatosGit\bin\Debug\MySql.Data.dll
+C:\Users\reyda\source\repos\PresentacionesGit\AccesoDatosGit\obj\Debug\AccesoDatosGit.csproj.AssemblyReference.cache
+C:\Users\reyda\source\repos\PresentacionesGit\AccesoDatosGit\obj\Debug\AccesoDatosGit.csproj.CoreCompileInputs.cache
+C:\Users\reyda\source\repos\PresentacionesGit\AccesoDatosGit\obj\Debug\AccesoDatosGit.csproj.CopyComplete
+C:\Users\reyda\source\repos\PresentacionesGit\AccesoDatosGit\obj\Debug\AccesoDatosGit.dll
+C:\Users\reyda\source\repos\PresentacionesGit\AccesoDatosGit\obj\Debug\AccesoDatosGit.pdb

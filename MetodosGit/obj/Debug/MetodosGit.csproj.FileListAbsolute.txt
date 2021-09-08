@@ -1,0 +1,12 @@
+C:\Users\reyda\source\repos\PresentacionesGit\MetodosGit\bin\Debug\MetodosGit.dll
+C:\Users\reyda\source\repos\PresentacionesGit\MetodosGit\bin\Debug\MetodosGit.pdb
+C:\Users\reyda\source\repos\PresentacionesGit\MetodosGit\bin\Debug\AccesoDatosGit.dll
+C:\Users\reyda\source\repos\PresentacionesGit\MetodosGit\bin\Debug\EntidadesGit.dll
+C:\Users\reyda\source\repos\PresentacionesGit\MetodosGit\bin\Debug\MySql.Data.dll
+C:\Users\reyda\source\repos\PresentacionesGit\MetodosGit\bin\Debug\AccesoDatosGit.pdb
+C:\Users\reyda\source\repos\PresentacionesGit\MetodosGit\bin\Debug\EntidadesGit.pdb
+C:\Users\reyda\source\repos\PresentacionesGit\MetodosGit\obj\Debug\MetodosGit.csproj.AssemblyReference.cache
+C:\Users\reyda\source\repos\PresentacionesGit\MetodosGit\obj\Debug\MetodosGit.csproj.CoreCompileInputs.cache
+C:\Users\reyda\source\repos\PresentacionesGit\MetodosGit\obj\Debug\MetodosGit.csproj.CopyComplete
+C:\Users\reyda\source\repos\PresentacionesGit\MetodosGit\obj\Debug\MetodosGit.dll
+C:\Users\reyda\source\repos\PresentacionesGit\MetodosGit\obj\Debug\MetodosGit.pdb

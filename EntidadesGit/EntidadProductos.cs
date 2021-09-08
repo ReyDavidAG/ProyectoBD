@@ -19,6 +19,9 @@ namespace EntidadesGit
             Descripcion = descripcion;
             Precio = precio;
         }
-    
+
+        public EntidadProductos()
+        {
+        }
     }
 }

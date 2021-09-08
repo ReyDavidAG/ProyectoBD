@@ -60,5 +60,15 @@
       <DependentUpon>FrmPrincipal.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EntidadesGit\EntidadesGit.csproj">
+      <Project>{dea94c6e-f1da-45bb-9247-921ba949c6f4}</Project>
+      <Name>EntidadesGit</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MetodosGit\MetodosGit.csproj">
+      <Project>{0468035b-3df3-4a3e-bc5f-080edf891188}</Project>
+      <Name>MetodosGit</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
